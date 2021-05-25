@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: ec15e242fddc9174e8e98a05b847035c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2387677824218568008
+    second: SS-MADMX_NEUTRO_0
+  - first:
+      213: -5244707895590026599
+    second: SS-MADMX_NEUTRO_1
+  - first:
+      213: 1308698450743310395
+    second: SS-MADMX_NEUTRO_2
+  - first:
+      213: -3557970065238860521
+    second: SS-MADMX_NEUTRO_3
+  - first:
+      213: -7953740393672946655
+    second: SS-MADMX_NEUTRO_4
+  - first:
+      213: 507208154460248244
+    second: SS-MADMX_NEUTRO_5
+  - first:
+      213: -181874481564142677
+    second: SS-MADMX_NEUTRO_6
+  - first:
+      213: -4936043009623062580
+    second: SS-MADMX_NEUTRO_7
+  - first:
+      213: -7587183571329611143
+    second: SS-MADMX_NEUTRO_8
+  - first:
+      213: 4032633527009341543
+    second: SS-MADMX_NEUTRO_9
+  - first:
+      213: 2722016887474830579
+    second: SS-MADMX_NEUTRO_10
+  - first:
+      213: 4756634094307465567
+    second: SS-MADMX_NEUTRO_11
+  - first:
+      213: -4594673689313386524
+    second: SS-MADMX_NEUTRO_12
+  - first:
+      213: 6111216291479305559
+    second: SS-MADMX_NEUTRO_13
+  - first:
+      213: 7949659915419235607
+    second: SS-MADMX_NEUTRO_14
+  - first:
+      213: -8484396619110220458
+    second: SS-MADMX_NEUTRO_15
+  - first:
+      213: 3966822607115325791
+    second: SS-MADMX_NEUTRO_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 66
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baef595ba34dded0800000000000000
+      internalID: -2387677824218568008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 66
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b8a2ae4e692210800000000000000
+      internalID: 1308698450743310395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 66
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd6fb931d8f9ec0800000000000000
+      internalID: -3557970065238860521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 66
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cc27fa043ae9190800000000000000
+      internalID: -7953740393672946655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 66
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8d8c11127f90700800000000000000
+      internalID: 507208154460248244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 66
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba339a46f1ad97df0800000000000000
+      internalID: -181874481564142677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 66
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc70e57f807af7bb0800000000000000
+      internalID: -4936043009623062580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 66
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a08319db8e4b690800000000000000
+      internalID: -7587183571329611143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760f8b6b3dac6f730800000000000000
+      internalID: 4032633527009341543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc3d82ffeb86c520800000000000000
+      internalID: 2722016887474830579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5955bdc185f20240800000000000000
+      internalID: 4756634094307465567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef54a98f907c30c0800000000000000
+      internalID: -4594673689313386524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3437a6d66fc450800000000000000
+      internalID: 6111216291479305559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715b9bfe29dd25e60800000000000000
+      internalID: 7949659915419235607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df8682a3e514a80800000000000000
+      internalID: -8484396619110220458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS-MADMX_NEUTRO_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f511910e42cfc0730800000000000000
+      internalID: 3966822607115325791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
